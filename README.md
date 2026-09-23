@@ -319,7 +319,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage Wix sites, business data, and bookings.
 
 ### 👤 <a name="crm"></a>CRM
-
+- [Data Parrot](https://dataparrot.ai) `https://api-v3.dataparrot.ai/api/v3/data-parrot/mcp`
+  [![Data Parrot MCP connector](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot/badges/score.svg)](https://glama.ai/mcp/connectors/ai.dataparrot/data-parrot)
+  🔐 - Data Parrot brings AI revenue analysis of your HubSpot data into your AI tools.
 - [Close](https://close.com) `https://mcp.close.com/mcp`
   [![Close MCP connector](https://glama.ai/mcp/connectors/com.close/close-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.close/close-mcp)
   🔐 - Read and update Close leads, contacts, and opportunities.
